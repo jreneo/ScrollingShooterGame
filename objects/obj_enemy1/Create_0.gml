@@ -2,7 +2,8 @@
 // You can write your code in this editor
 
 // Inherit the parent event
+scr_position();
 event_inherited();
-vspeed += 2;
+vspeed += extraSpeed;
 
 

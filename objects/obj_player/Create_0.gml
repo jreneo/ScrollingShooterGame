@@ -2,3 +2,5 @@
 // You can write your code in this editor
 
 health = 100
+canShoot = true
+
